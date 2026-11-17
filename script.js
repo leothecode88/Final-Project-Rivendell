@@ -14,7 +14,7 @@ var VENUES = [
         capacity: 40,
         price: 120,
         perGuest: 5,
-        image: 'E:\\FINAL PROJECT\\Images\\Hall.jpg',
+        image: 'Hall.jpg',
         description: 'A warm hall of carved pillars and a great hearth, made for songs, tales and long evening feasts.'
     },
     {
@@ -23,7 +23,7 @@ var VENUES = [
         capacity: 12,
         price: 90,
         perGuest: 8,
-        image: 'E:\\FINAL PROJECT\\Images\\CouncilChamber.jpg',
+        image: 'CouncilChamber.jpg',
         description: 'A quiet, high-windowed chamber for councils, debates and weighty decisions.'
     },
     {
@@ -32,7 +32,7 @@ var VENUES = [
         capacity: 8,
         price: 60,
         perGuest: 4,
-        image: 'E:\\FINAL PROJECT\\Images\\Library.jpg',
+        image: 'Library.jpg',
         description: 'Shelves of old scrolls and maps. Read, research and copy in calm company.'
     },
     {
@@ -41,7 +41,7 @@ var VENUES = [
         capacity: 25,
         price: 75,
         perGuest: 3,
-        image: 'E:\\FINAL PROJECT\\Images\\GoldenTerrace.jpg',
+        image: 'GoldenTerrace.jpg',
         description: 'An open terrace above the waterfalls for dawn meetings, poetry and gentle gatherings.'
     },
     {
@@ -50,7 +50,7 @@ var VENUES = [
         capacity: 4,
         price: 50,
         perGuest: 10,
-        image: 'E:\\FINAL PROJECT\\Images\\Rest.jpg',
+        image: 'Rest.jpg',
         description: 'Soft beds, open balconies and the sound of falling water for weary travellers.'
     }
 ];
