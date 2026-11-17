@@ -14,7 +14,7 @@ var VENUES = [
         capacity: 40,
         price: 120,
         perGuest: 5,
-        image: 'Hall.jpg',
+        image: 'halloffire.jpg',
         description: 'A warm hall of carved pillars and a great hearth, made for songs, tales and long evening feasts.'
     },
     {
